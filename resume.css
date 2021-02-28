@@ -39,3 +39,27 @@
 .body{
     font-weight: bold;
 }
+
+.heading1a{
+    position: relative;
+    left: 274px;
+    top: -65px;
+}
+
+.hr{
+    position: relative;
+    right: 303px;
+    top: -78px;
+}
+
+.p2{
+    position: relative;
+    left: 274px;
+    top: -75px;
+}
+
+.p3{
+    position: relative;
+    left: 274px;
+    top: -75px;
+}
