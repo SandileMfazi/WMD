@@ -48,7 +48,7 @@
 
 .hr{
     position: relative;
-    right: 303px;
+    right: 295px;
     top: -78px;
 }
 
@@ -63,3 +63,16 @@
     left: 274px;
     top: -75px;
 }
+
+.heading1b{
+    position:relative;
+    left: 274px;
+    top: -75px;
+}
+
+.hr1a{
+    position: relative;
+    right: 296px;
+    top: -86px;
+}
+
