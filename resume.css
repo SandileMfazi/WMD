@@ -1,3 +1,7 @@
+.body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
 .circle{
     background-color: white;
     width: 180px;
@@ -15,7 +19,6 @@
     position: relative;
     left: 33px;
     top: -2px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: #EA4E4E;
     font-size: 36px;
 }
@@ -31,12 +34,11 @@
 }
 
 .content2{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: right;
     margin-right: 18px;
 }
 
-.body{
+.description{
     font-weight: bold;
 }
 
@@ -146,4 +148,37 @@
     left: 524px;
     top: -547px;
     font-weight: bold;
+}
+
+.p6{
+    position: relative;
+    left: 524px;
+    top:-578px;
+}
+
+.Subheading3a{
+    position: relative;
+    left: 524px;
+    top: -580px;
+    font-weight: bold;
+}
+
+.p7{
+    position: relative;
+    left: 524px;
+    top: -611px;
+}
+
+.heading1e{
+    position: relative;
+    left: 524px;
+    top: -540px;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.hr1d{
+    position: relative;
+    top: -547px;
+    left: 80.5px;
 }
