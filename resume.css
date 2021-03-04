@@ -49,56 +49,101 @@
 
 .hr{
     position: relative;
-    right: 295px;
-    top: -83px;
+    right: 293px;
+    top: -80px;
 }
 
 .p2{
     position: relative;
     left: 274px;
-    top: -82px;
+    top: -87px;
 }
 
 .p3{
     position: relative;
     left: 274px;
-    top: -75px;
+    top: -114px;
 }
 
 .heading1b{
     position:relative;
     left: 274px;
-    top: -75px;
+    top: -93px;
     font-size: 26px;
+    font-weight: bold;
 }
 
 .hr1a{
     position: relative;
-    right: 296px;
-    top: -96px;
+    right: 294px;
+    top: -99px;
 }
 
 .p3a{
     position:relative;
     left: 274px;
-    top: -93px;
+    top: -108px;
 }
 
-.hr1b{
-    position: relative;
-    top: -511.5px;
-    left: 80.5px;
-}
 .heading1c{
     position: relative;
     left: 524px;
     top: -482px;
     font-size: 26px;
+    font-weight: bold;
+}
+
+.hr1b{
+    position: relative;
+    top: -486px;
+    left: 80.5px;
 }
 
 .SubHeading{
     position: relative;
-    left: 526px;
+    left: 524px;
+    top: -482px;
+    font-weight: bold;
+}
+
+.p4{
+    position:relative;
+    left: 524px;
     top: -512px;
+
+}
+
+.Subheading2{
+    position:relative;
+    left: 524px;
+    top: -532px;
+    font-weight: bold;
+}
+
+.p5{
+    position:relative;
+    left: 524px;
+    top:-562px;
+
+}
+
+.heading1d{
+    position: relative;
+    left: 524px;
+    top: -540px;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.hrlc{
+    position: relative;
+    top: -547px;
+    left: 80.5px;
+}
+
+.Subheading3{
+    position:relative;
+    left: 524px;
+    top: -547px;
     font-weight: bold;
 }
