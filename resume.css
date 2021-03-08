@@ -1,5 +1,5 @@
 .body{
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .circle{
@@ -172,13 +172,43 @@
 .heading1e{
     position: relative;
     left: 524px;
-    top: -540px;
-    font-size: 26px;
+    top: -595px;
+    font-size: 24px;
     font-weight: bold;
 }
 
 .hr1d{
     position: relative;
-    top: -547px;
+    top: -597px;
     left: 80.5px;
+}
+
+.p8{
+    position:relative;
+    left: 524px;
+    top: -622px;
+}
+
+.image1{
+    position:relative;
+    left:309px;
+    top: -567px;
+}
+
+.image2{
+    position: relative;
+    left:359px;
+    top: -558px;
+}
+
+.image3{
+    position:relative;
+    left: 409px;
+    top: -583px;
+}
+
+.image4{
+    position:relative;
+    left: 459px;
+    top: -567px;
 }
